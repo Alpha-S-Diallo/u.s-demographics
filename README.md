@@ -1,4 +1,6 @@
-verview
+Overview: 
+
+
 This project identifies which U.S. cities are most similar to Washington DC by analyzing multiple urban dimensions simultaneously. Using multi-dimensional scaling and clustering techniques, the analysis reveals patterns of similarity across firearm violence, demographics, hate crimes, and public health metrics.
 What It Does
 The analysis combines data from four different urban studies to create a comprehensive similarity ranking. Cities are compared across:
